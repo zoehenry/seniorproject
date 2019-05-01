@@ -1,2 +1,8 @@
 # seniorproject
 490 Senior Project: Family Archives
+
+### Abstract
+For my project, I have created an iOS application that helps users preserve and archive family history.  The application has two main features—uploading photos and uploading audio.  The user can upload either type of media, name the event or person featured in the media, and write a description about it.  This will allow users to click through family photos and listen to stories across generations with losing family history due to damaged or lost old photos or the overwhelming volume of photos stored on their personal device.
+I chose this project because I wanted to expand my knowledge of software engineering by learning mobile development.  I chose to focus on learning Swift because the language is so well documented and most of the mobile development I’ve seen in industry has been iOS development.  As a result, I felt that I would have plenty of resources to use for independent study, while also preparing myself professionally for working with iOS if I chose to pursue mobile development in the future.  This project has helped me expand the list of tools I feel comfortable using, as well as given me a project that I am excited to share with my family.
+The idea for this application was inspired by many conversations I have had with my parents about the importance of preserving family stories and how the digital age has made it too common to take photos and forget about them.  This application allows users to organize photos and audio recordings in one place without being overwhelmed by the quantity of documents.
+
